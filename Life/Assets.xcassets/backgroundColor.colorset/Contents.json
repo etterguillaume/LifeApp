@@ -5,7 +5,7 @@
         "color-space" : "extended-gray",
         "components" : {
           "alpha" : "1.000",
-          "white" : "0.795"
+          "white" : "0.129"
         }
       },
       "idiom" : "universal"
@@ -14,8 +14,5 @@
   "info" : {
     "author" : "xcode",
     "version" : 1
-  },
-  "properties" : {
-    "localizable" : true
   }
 }
